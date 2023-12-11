@@ -1,2 +1,2 @@
 # Class-Projects
-#eddit to the file
+#edit the file
